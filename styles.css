@@ -1,0 +1,18 @@
+body{
+    color: white;
+    background-color: black;
+    text-align: center;
+ }
+ header{
+     color: red;
+ }
+ h2{
+     color: red;
+ }
+ iframe{
+     border-radius: 8mm;
+ }
+ h1{
+     font-family: dc;
+     font-size: 10mm;
+ }
